@@ -1,11 +1,6 @@
                                                            #"FILE ORGANIZER MINI PROJECT BASED ON FILE EXTENTIONS"
                                                           
-
-
-#here are the main 3 steps involed in this mini project:
-#the first step is to take input directory which need to be organized
-#the second part is to create specific type of directories to hold specific type of files
-#the third step is to check the file extention and then move them particular directoy which are created
+
 
 #in this project we import these two modules as it is in below,in which all the necessary funtions are defined which are needed to build this mini project
 import os
