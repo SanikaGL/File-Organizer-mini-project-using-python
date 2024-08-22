@@ -40,8 +40,6 @@ for file in filelist:
               break
              
 
-#this mini projects has some limitations as i am a beginner and i tried to build my own mini project and will definetly make next project which can handle complex situations
-#thank you for reading my code
          
     
          
